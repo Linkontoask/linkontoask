@@ -3,3 +3,5 @@
 - 🔭 I’m currently working on [v-easy-components](https://github.com/Linkontoask/v-easy-components)
 - 🌱 I’m currently learning TypeScript and Vue3
 - 📫 How to reach me: linkorgs@163.com
+
+Note: The avatar was drawn by a friend
